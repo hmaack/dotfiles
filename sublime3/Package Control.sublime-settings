@@ -1,0 +1,30 @@
+{
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"BeautifyRuby",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Crypto",
+		"DashDoc",
+		"Dotfiles Syntax Highlighting",
+		"GitGutter",
+		"Haml",
+		"Markdown Extended",
+		"Marked App Menu",
+		"Monokai Extended",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"RubyMotionBuilder",
+		"RubyTest",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-haml",
+		"SublimeLinter-jshint",
+		"SublimeLinter-rubocop",
+		"Theme - Soda"
+	]
+}
